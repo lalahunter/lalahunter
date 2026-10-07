@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  🧠 human behaviour &nbsp;·&nbsp;
-  🩺 health &nbsp;·&nbsp;
-  🧭 decision making &nbsp;·&nbsp;
-  🔎 whatever rabbit hole comes next
+  <img src="https://img.shields.io/badge/🧠%20human%20behaviour-7A3E48?style=flat-square" />
+  <img src="https://img.shields.io/badge/🩺%20health-5E2F37?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧭%20decision%20making-B08D57?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔎%20whatever%20rabbit%20hole%20comes%20next-EDE6DD?style=flat-square" />
 </p>
 
 <p align="center">✦</p>
