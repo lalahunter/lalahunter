@@ -89,3 +89,13 @@ My Ironhack Data Analytics bootcamp work, consolidated by topic rather than chro
   <img src="https://img.shields.io/badge/Streamlit-5E2F37?style=flat" />
   <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-B08D57?style=flat" />
 </p>
+
+<br>
+
+## ↗ Contact
+
+**Got a question worth chasing?**
+
+I'm currently open to data analyst opportunities, collaborative projects, and good questions without obvious answers.
+
+[LinkedIn](https://www.linkedin.com/in/lara-caçador/)
