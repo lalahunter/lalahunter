@@ -22,9 +22,7 @@ Moving from physiotherapy into data analytics gave my curiosity a much bigger pl
 
 I’m especially interested in **human behaviour, health and decision making**. My curiosity, however, is not particularly good at staying in one lane.
 
-I like analysis that tells a story.
-
-**The evidence gets final cut.**
+I like analysis that tells a story, as long as the evidence gets final cut.
 
 <br>
 
