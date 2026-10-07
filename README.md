@@ -18,11 +18,13 @@
 
 Most of mine start with **"why?"**
 
-I moved from physiotherapy into data analytics, and suddenly my curiosity had a much bigger playground.
+Moving from physiotherapy into data analytics gave my curiosity a much bigger playground.
 
-I’m especially interested in **human behaviour, health and decision making**, but my curiosity is not particularly good at staying in one lane.
+I’m especially interested in **human behaviour, health and decision making**. My curiosity, however, is not particularly good at staying in one lane.
 
-I like analysis that tells a story, as long as the story is actually supported by the data. If the evidence does not say it, I would rather leave the question open than make the answer sound more interesting than it is.
+I like analysis that tells a story.
+
+**The evidence gets final cut.**
 
 <br>
 
