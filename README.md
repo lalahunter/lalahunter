@@ -12,7 +12,9 @@
   <img src="https://img.shields.io/badge/🔎%20whatever%20rabbit%20hole%20comes%20next-EDE6DD?style=flat" />
 </p>
 
-<p align="center">✦</p>
+<p align="center">
+  <img src="./rabbit-hole.gif" width="72" alt="A small rabbit disappearing down a rabbit hole">
+</p>
 
 > One question has an unfortunate tendency to become five more.
 
