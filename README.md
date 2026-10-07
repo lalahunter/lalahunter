@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lara 👋</h1>
 
 <p align="center">
-  <i>Always asking why. Trying not to invent the answer.</i>
+  <i>Always asking why. Following the evidence, even when it refuses to tell a neat story.</i>
 </p>
 
 I have a habit of falling into rabbit holes because one question turns into five more.
