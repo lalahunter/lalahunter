@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lara 👋</h1>
+<h1 align="center">Hi, I'm Lara ✦</h1>
 
 <p align="center">
   <b>Always asking why.</b><br>
@@ -12,7 +12,7 @@
   🔎 whatever rabbit hole comes next
 </p>
 
-<br>
+<p align="center">✦</p>
 
 > One question has an unfortunate tendency to become five more.
 
