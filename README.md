@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🧠%20human%20behaviour-7A3E48?style=flat-square" />
-  <img src="https://img.shields.io/badge/🩺%20health-5E2F37?style=flat-square" />
-  <img src="https://img.shields.io/badge/🧭%20decision%20making-B08D57?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔎%20whatever%20rabbit%20hole%20comes%20next-EDE6DD?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠%20human%20behaviour-7A3E48?style=flat" />
+  <img src="https://img.shields.io/badge/⚕%20health-5E2F37?style=flat" />
+  <img src="https://img.shields.io/badge/🧭%20decision%20making-B08D57?style=flat" />
+  <img src="https://img.shields.io/badge/🔎%20whatever%20rabbit%20hole%20comes%20next-EDE6DD?style=flat" />
 </p>
 
 <p align="center">✦</p>
