@@ -1,12 +1,22 @@
 <h1 align="center">Hi, I'm Lara 👋</h1>
 
 <p align="center">
-  <i>Always asking why. Following the evidence, even when it refuses to tell a neat story.</i>
+  <b>Always asking why.</b><br>
+  <i>Following the evidence, even when it refuses to tell a neat story.</i>
 </p>
 
-I have a habit of falling into rabbit holes because one question turns into five more.
+<p align="center">
+  🧠 human behaviour &nbsp;·&nbsp;
+  🩺 health &nbsp;·&nbsp;
+  🧭 decision making &nbsp;·&nbsp;
+  🔎 whatever rabbit hole comes next
+</p>
 
-Most of them start with **"why?"**
+<br>
+
+> One question has an unfortunate tendency to become five more.
+
+Most of mine start with **"why?"**
 
 I moved from physiotherapy into data analytics, and suddenly my curiosity had a much bigger playground.
 
@@ -14,50 +24,59 @@ I’m especially interested in **human behaviour, health and decision making**, 
 
 I like analysis that tells a story, as long as the story is actually supported by the data. If the evidence does not say it, I would rather leave the question open than make the answer sound more interesting than it is.
 
----
+<br>
 
 ## 🔎 Selected work
 
 ### 🧠 [High-Impact Chronic Pain: Beyond Pain Intensity](https://github.com/lalahunter/chronic-pain-impact)
 
-What distinguishes adults whose chronic pain substantially interferes with daily life?
+**Question:** What distinguishes adults whose chronic pain substantially interferes with daily life?
 
-Using 2025 NHIS data, I explored high-impact chronic pain through statistical analysis and machine learning, comparing what different sets of information add to prediction and building an interactive threshold explorer to make model trade-offs visible.
+Using 2025 NHIS data, I explored what different sets of information add to classification and built an interactive threshold explorer to make model trade-offs visible.
 
-`Python` `Pandas` `Machine Learning` `Classification` `scikit-learn` `Streamlit`
+`Python` `Pandas` `Machine Learning` `scikit-learn` `Streamlit`
 
-[Interactive app](https://chronic-pain-impact.streamlit.app/)
+→ [Explore the repository](https://github.com/lalahunter/chronic-pain-impact)  
+→ [Try the interactive app](https://chronic-pain-impact.streamlit.app/)
 
 ---
 
 ### 🧪 [Vanguard Digital Experience Analysis](https://github.com/jannoelvero/Week_6_Project)
 
-Collaborative A/B testing project evaluating whether a redesigned digital experience should replace the existing interface.
+**Question:** Did the redesigned experience actually make things better?
 
-We looked beyond whether the Test group simply performed "better", examining completion, time, customer journeys and navigation friction to understand the trade-offs behind the result.
+Collaborative A/B testing project looking beyond a single KPI to examine completion, time, customer journeys and navigation friction.
 
-`A/B Testing` `Statistical Testing` `Product Analytics` `Customer Journey Analysis` `Tableau`
+`A/B Testing` `Statistical Testing` `Product Analytics` `Tableau`
+
+→ [Explore the collaborative project](https://github.com/jannoelvero/Week_6_Project)
 
 ---
 
 ### 🏠 [Airbnb Investment Analysis](https://github.com/lalahunter/airbnb-investment-analysis)
 
-Market analysis combining Python, SQL and data visualization to identify where the strongest short-term rental investment signals appear across property types and locations.
+**Question:** Where do the strongest short-term rental investment signals appear, and why?
 
-`Python` `SQL` `Pandas` `Data Analysis` `Data Visualization`
+Market analysis combining Python, SQL and data visualization across property types and locations.
 
----
+`Python` `SQL` `Pandas` `Business Analysis`
 
-## 🧩 Foundations
+→ [Explore the repository](https://github.com/lalahunter/airbnb-investment-analysis)
 
-📚 [**Data Analytics Learning Lab**](https://github.com/lalahunter/data-analytics-learning-lab)
+<br>
 
-My Ironhack Data Analytics bootcamp exercises, consolidated and organized by topic rather than chronology.
+## 🧩 The foundations underneath
+
+### 📚 [Data Analytics Learning Lab](https://github.com/lalahunter/data-analytics-learning-lab)
+
+The exercises behind the projects.
+
+My Ironhack Data Analytics bootcamp work, consolidated by topic rather than chronology:
 
 `Python` `Pandas` `SQL` `Statistics` `EDA` `Machine Learning` `Tableau` `Web Scraping` `Git`
 
----
+<br>
 
-## 🛠 Tools
+## 🛠 Toolkit
 
-**Python · SQL · Pandas · scikit-learn · Tableau · Streamlit · Git/GitHub**
+`Python` · `SQL` · `Pandas` · `scikit-learn` · `Tableau` · `Streamlit` · `Git/GitHub`
