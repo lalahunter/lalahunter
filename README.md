@@ -79,4 +79,14 @@ My Ironhack Data Analytics bootcamp work, consolidated by topic rather than chro
 
 ## 🛠 Toolkit
 
-`Python` · `SQL` · `Pandas` · `scikit-learn` · `Tableau` · `Streamlit` · `Git/GitHub`
+## 🛠 Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-7A3E48?style=flat" />
+  <img src="https://img.shields.io/badge/SQL-5E2F37?style=flat" />
+  <img src="https://img.shields.io/badge/Pandas-B08D57?style=flat" />
+  <img src="https://img.shields.io/badge/scikit--learn-EDE6DD?style=flat" />
+  <img src="https://img.shields.io/badge/Tableau-7A3E48?style=flat" />
+  <img src="https://img.shields.io/badge/Streamlit-5E2F37?style=flat" />
+  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-B08D57?style=flat" />
+</p>
