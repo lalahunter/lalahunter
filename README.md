@@ -77,7 +77,6 @@ My Ironhack Data Analytics bootcamp work, consolidated by topic rather than chro
 
 <br>
 
-## 🛠 Toolkit
 
 ## 🛠 Toolkit
 
