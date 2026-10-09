@@ -100,6 +100,6 @@ My Ironhack Data Analytics bootcamp work, consolidated by topic rather than chro
 
 I'm currently open to data analyst opportunities, collaborative projects, and good questions without obvious answers.
 
-<a href="https://www.linkedin.com/in/lara-ca%C3%A7ador/">
+<a href="https://www.linkedin.com/in/lara-cacador/">
   <img src="https://img.shields.io/badge/LinkedIn-B08D57?style=flat&logo=linkedin&logoColor=EDE6DD" />
 </a>
