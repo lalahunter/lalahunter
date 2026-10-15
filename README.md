@@ -103,3 +103,10 @@ I'm currently open to data analyst opportunities, collaborative projects, and go
 <a href="https://www.linkedin.com/in/lara-cacador/">
   <img src="https://img.shields.io/badge/LinkedIn-B08D57?style=flat&logo=linkedin&logoColor=EDE6DD" />
 </a>
+
+
+<br>
+
+<p align="center">
+  <sub><i>DA - Data Analyst by ambition, Directrice Artistique by delusion. 🎨</i></sub>
+</p>
