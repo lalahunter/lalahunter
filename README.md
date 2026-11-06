@@ -34,12 +34,11 @@ I like analysis that tells a story, as long as the evidence gets final cut.
 
 **Question:** What distinguishes adults whose chronic pain substantially interferes with daily life?
 
-Using 2025 NHIS data, I explored what different sets of information add to classification and built an interactive threshold explorer to make model trade-offs visible.
+Using 2025 NHIS data, I tested whether pain intensity alone was enough to distinguish high-impact chronic pain, then built the analysis into a **13-scene interactive narrative** with progressive model reveals and a threshold explorer for decision trade-offs.
 
-`Python` `Pandas` `Machine Learning` `scikit-learn` `Streamlit`
+`Python` `scikit-learn` `Machine Learning` `Streamlit` `Healthcare Analytics` `Data Storytelling`
 
-→ [Explore the repository](https://github.com/lalahunter/chronic-pain-impact)  
-→ [Try the interactive app](https://chronic-pain-impact.streamlit.app/)
+[![Launch interactive presentation](https://img.shields.io/badge/Launch%20interactive%20presentation-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://chronic-pain-impact.streamlit.app/)
 
 ---
 
@@ -98,7 +97,7 @@ My Ironhack Data Analytics bootcamp work, consolidated by topic rather than chro
 
 **Got a question worth chasing?**
 
-I'm currently open to data analyst opportunities, collaborative projects, and good questions without obvious answers.
+I'm currently open to data analyst and insights opportunities, collaborative projects, and good questions without obvious answers.
 
 <a href="https://www.linkedin.com/in/lara-cacador/">
   <img src="https://img.shields.io/badge/LinkedIn-B08D57?style=flat&logo=linkedin&logoColor=EDE6DD" />
